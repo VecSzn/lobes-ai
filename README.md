@@ -2,6 +2,8 @@
 
 English | [中文](README.zh-CN.md)
 
+> I've stopped working on Lobes and archived this repository. The code and the results below stay as they are.
+
 Lobes is an experimental local AI runtime. It splits one assistant into several small models, and each one handles its own part of a request.
 
 I started from a simple question. If an AI were a company, would it really need its most expensive all-rounder on every task? A math problem could go to someone good at math, an image to a vision model, and the arithmetic to a program. Lobes is me trying that on one consumer GPU.
